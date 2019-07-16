@@ -31,7 +31,7 @@ client.on('ready', function () {
 
 })
 
-client.login('NjAwMzYyODE0ODcxMzA2MjQx.XSyqNg.SCrsQnxSgJguZVeUwuN9_p469eo')
+client.login('NjAwMzYyODE0ODcxMzA2MjQx.XS3sFA.E4IWfGHNRQ6OIvY5kz1mx0WM8pk')
 
 client.on("message", message =>{
     if(!message.guild) return
